@@ -1,1 +1,1 @@
-# fasionista
+# QR code generator
